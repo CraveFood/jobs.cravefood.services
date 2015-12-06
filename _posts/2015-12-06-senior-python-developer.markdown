@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Hybrid Mobile App Developer
-date:   2015-12-05 09:28:34
+title:  Senior Python Developer (backend)
+date:   2015-12-06 16:31:22
 categories: jobs
 status: open
 ---
@@ -21,20 +21,17 @@ Our first product WhatsGood is a real-time, cloud based ordering platform that c
 
 ## Relevant Skills
 
-* Solid HTML, CSS and Javascript knowledge is a must!
-* Be able to build mobile apps compatible with different devices and OS
-* User Interface design and development
-* Good understanding of git
-* Pixel perfect eye
+* Solid Python skills
+* Experience with Django
+* Good understanding of git, databases (sql and nosql) and queues
 * Ability to multi-task and work under pressure
-* Passion for mobile technology and high quality engineering
-* Be able to build custom UI and animation
 * Strong skills on Unix/Linux environment
 * Be interested in the whole stack – there is no part of the system that is somebody's else problem
 * Familiar with agile principles
 * Automated building and deployment
 * Automated testing (Unit, Integration and Functional automated testing techniques)
 * Memory management and performance tuning
+* Experience contributing to open source software it's a **great plus**
 
 
 ## Compensation
@@ -43,7 +40,7 @@ Our first product WhatsGood is a real-time, cloud based ordering platform that c
 
 
 ## How to apply
- 
+
 Send your resume to <sergio@cravefood.services>
 
 *If you have open source contributions please add the link of the most meaningful PR you've made this year!*

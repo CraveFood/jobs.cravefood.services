@@ -44,3 +44,5 @@ Our first product WhatsGood is a real-time, cloud based ordering platform that c
 ## How to apply
 
 Send your resume to <sergio@cravefood.services>
+
+*If you have open source contributions please add the link of the most meaningful PR you've made this year!*
